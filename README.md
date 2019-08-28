@@ -1,0 +1,3 @@
+# YamlToExcel
+将yaml文件解析成map，然后将需要的内容解析输出成excel文件输出
+该文件是prometheus的告警规则文件
